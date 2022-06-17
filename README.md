@@ -2,7 +2,7 @@
 
 # This notebook is part of the Capstone Project for Google Data Analytics Professional Certificate
 
-# Dataset
+# Dataset - https://divvy-tripdata.s3.amazonaws.com/index.html
 The dataset includes previous 12 months of Cyclistic trip data ( May 2021 to April 2022). Cyclistic is a fictional bike-share company and we are tasked with the objective of maximizing the number of annual memberships.
 
 # Analysis Roadmap 
